@@ -1,0 +1,8 @@
+dist-newstyle/
+*.o
+*.hi
+*.chi
+*.chs.h
+.cabal-sandbox/
+cabal.sandbox.config
+.DS_Store
